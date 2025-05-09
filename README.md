@@ -1,5 +1,7 @@
 # 🔐 FlaskSecForge – Production‑Ready Flask API Boilerplate Generator
 
+![Downloads](https://static.pepy.tech/badge/flasksecforge/month)  
+
 [![PyPI version](https://img.shields.io/pypi/v/flasksecforge.svg)](https://pypi.org/project/flasksecforge/) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 
