@@ -6,7 +6,7 @@ The maintainers of this project take security seriously and appreciate the effor
 
 If you discover a security issue, please follow the guidelines below to ensure it is handled safely, privately, and efficiently.
 
----
+
 
 ## 🔐 Reporting a Security Vulnerability
 
@@ -30,9 +30,8 @@ If this repository has GitHub Security Advisories enabled, you may submit a priv
 
 https://github.com/OWNER/REPOSITORY/security/advisories
 
-Replace `OWNER/REPOSITORY` with the appropriate repository path.
 
----
+
 
 ## 🤝 Responsible Disclosure
 
@@ -43,7 +42,7 @@ We kindly request that you:
 
 We are committed to working with reporters in good faith and will acknowledge valid reports when appropriate.
 
----
+
 
 ## ⏳ Response Expectations
 
@@ -51,7 +50,7 @@ We are committed to working with reporters in good faith and will acknowledge va
 - We will provide updates during investigation and remediation where appropriate.
 - Once resolved, we may coordinate disclosure details with you if desired.
 
----
+
 
 ## 🙏 Thank You
 
