@@ -17,7 +17,7 @@ Instead, report security concerns privately using one of the following methods:
 ### Option 1: Email (Preferred)
 Send a detailed report to:
 
-**security@yourdomain.com**
+**repromptsquest@gmail.com**
 
 Include the following information when possible:
 - A clear description of the vulnerability
@@ -28,7 +28,7 @@ Include the following information when possible:
 ### Option 2: GitHub Security Advisories
 If this repository has GitHub Security Advisories enabled, you may submit a private report here:
 
-https://github.com/OWNER/REPOSITORY/security/advisories
+https://github.com/reprompts/fastsecforge/security/advisories
 
 
 
